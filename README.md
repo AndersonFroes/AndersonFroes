@@ -7,7 +7,7 @@ Trabalhei na área de finanças e administração durante 15 anos, e inclusive t
 Sou apaixonado por tecnologia e desenvolvimento de soluções criativas para qualquer problema que encontro.
 Durante minha adolescência criei vários sites usando o lendário Front-Page, fazendo muitos sites de bandas de rock e animes. 
 Também fiz alguns Karaokes para aberturas de animes usando o AegiSub, mas tudo isso sempre como diversão.
-Hoje estudo no Grupo Alura para poder finalmente entrar na área de Programação, estudo também na Faculdade Unopar, fazendo Gestão Financeira e agora estou entrando para o Grupo Dio (Digital Innovation One) onde faço o Bootcamp Inter Java Developer do Banco Inter.
+Hoje estudo no Grupo Alura para poder finalmente entrar na área de Programação, estudo também na Faculdade Unopar, fazendo Gestão Financeira e também estudo na Dio (Digital Innovation One) onde faço o Bootcamp Inter Java Developer do Banco Inter.
 
  Visitem meu [portfolio](https://andersonfroes.github.io/Portfolio/).
 
