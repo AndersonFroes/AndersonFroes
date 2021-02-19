@@ -1,32 +1,20 @@
 ![Banner](https://i.ibb.co/4Y9qHq4/banner.jpg)
 
 ### Bem-Vindo ao meu Profile!! 🚀
-#### Me chamo Anderson Froes e sou Gestor Financeiro e amante de Tecnologia.
 
-- 🔭 Atualmente faço cursos nas plataformas Alura e Dio.
-- 🚀 Visitem meu [portfolio](https://andersonfroes.github.io/Portfolio/).
+- 🚀🚀 Cresci em Belo Horizonte, onde vivo até hoje. Passei minha infância e adolescência lendo quadrinhos, romances de fantasia épica e jogando videogame. 
+Trabalhei na área de finanças e administração durante 15 anos, e inclusive tive uma empresa própria no ramo de Bares e Restaurantes.
+Sou apaixonado por tecnologia e desenvolvimento de soluções criativas para qualquer problema que encontro.
+Durante minha adolescência criei vários sites usando o lendário Front-Page, fazendo muitos sites de bandas de rock e animes. 
+Também fiz alguns Karaokes para aberturas de animes usando o AegiSub, mas tudo isso sempre como diversão.
+Hoje estudo no Grupo Alura para poder finalmente entrar na área de Programação, estudo também na Faculdade Unopar, fazendo Gestão Financeira e agora estou entrando para o Grupo Dio (Digital Innovation One) onde faço o Bootcamp Inter Java Developer do Banco Inter.
 
+ Visitem meu [portfolio](https://andersonfroes.github.io/Portfolio/).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AndersonFroes.AndersonFroes)
 [![Github](https://img.shields.io/github/followers/AndersonFroes?label=Follow&style=social)](https://github.com/AndersonFroes)
 
-
-## 📨 Encontre-me:
-<p align="center">
- <a href="https://www.linkedin.com/in/andersonfroes/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="andersonfroes@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
 <br />
-
-## 🧰 Linguagens e Apps:
-<p align="center">
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Github" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 ## 👨‍💻 Minhas linguagens mais usadas:
 
